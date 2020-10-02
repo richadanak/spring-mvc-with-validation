@@ -1,4 +1,5 @@
 # spring-mvc-with-validation-without-maven
+# to see full output video please check- https://youtu.be/DL_-HotHw5Q
 #need to add jar files in jar files in WebContent/WEB-INF/lib
 #jar files such as
 #classmate-0.5.4.jar
@@ -12,6 +13,7 @@
 #spring-web-3.2.4.RELEASE.jar
 #spring-webmvc-3.2.4.RELEASE.jar
 #validation-api-1.1.0.Final.jar
+
 
 
 
