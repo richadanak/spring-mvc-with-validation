@@ -1,4 +1,4 @@
-# spring-mvc-with-validation
+# spring-mvc-with-validation-without-maven
 #need to add jar files in jar files in WebContent/WEB-INF/lib
 #jar files such as
 #classmate-0.5.4.jar
